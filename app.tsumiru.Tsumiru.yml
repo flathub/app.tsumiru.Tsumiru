@@ -28,6 +28,7 @@ modules:
       env:
         PUB_CACHE: /run/build/Tsumiru/.pub-cache
         TSUMIRU_APPLICATION_ID: app.tsumiru.Tsumiru
+        TSUMIRU_BUNDLE_AVIF_DEPS: '0'
       arch:
         x86_64:
           env:
@@ -49,7 +50,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/Suwayomi/Suwayomi-Tsumiru.git
-        commit: e8bc1527dee752d1cab74cc66a96396f9910dd74
+        commit: 6007fc008e48c0f512f20e2f66f2bddcc045cb4d
       - type: archive
         url: https://sqlite.org/2026/sqlite-amalgamation-3540100.zip
         sha256: 0a9c8e34352dad46006aa82836d5383bff9dc6bc9ce5a60553c05aa30e6ad1f9
