@@ -296,44 +296,44 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/cached_network_image-3.4.1.tar.gz",
-        "sha256": "7c1183e361e5c8b0a0f21a28401eecdbde252441106a9816400dd4c2b2424916",
+        "url": "https://pub.dev/api/archives/cached_network_image-4.0.6.tar.gz",
+        "sha256": "f865286d78afe21964f8a22f7e7e798ab6b0cceb6608effe4e31983776f4736f",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/cached_network_image-3.4.1"
+        "dest": ".pub-cache/hosted/pub.dev/cached_network_image-4.0.6"
     },
     {
         "type": "inline",
-        "contents": "7c1183e361e5c8b0a0f21a28401eecdbde252441106a9816400dd4c2b2424916",
+        "contents": "f865286d78afe21964f8a22f7e7e798ab6b0cceb6608effe4e31983776f4736f",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "cached_network_image-3.4.1.sha256"
+        "dest-filename": "cached_network_image-4.0.6.sha256"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/cached_network_image_platform_interface-4.1.1.tar.gz",
-        "sha256": "35814b016e37fbdc91f7ae18c8caf49ba5c88501813f73ce8a07027a395e2829",
+        "url": "https://pub.dev/api/archives/cached_network_image_platform_interface-5.0.3.tar.gz",
+        "sha256": "555e287d3882fbb36cde50d24214cb3f6a272d39c4386e8afe00cb188d35b285",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/cached_network_image_platform_interface-4.1.1"
+        "dest": ".pub-cache/hosted/pub.dev/cached_network_image_platform_interface-5.0.3"
     },
     {
         "type": "inline",
-        "contents": "35814b016e37fbdc91f7ae18c8caf49ba5c88501813f73ce8a07027a395e2829",
+        "contents": "555e287d3882fbb36cde50d24214cb3f6a272d39c4386e8afe00cb188d35b285",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "cached_network_image_platform_interface-4.1.1.sha256"
+        "dest-filename": "cached_network_image_platform_interface-5.0.3.sha256"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/cached_network_image_web-1.3.1.tar.gz",
-        "sha256": "980842f4e8e2535b8dbd3d5ca0b1f0ba66bf61d14cc3a17a9b4788a3685ba062",
+        "url": "https://pub.dev/api/archives/cached_network_image_web-2.0.4.tar.gz",
+        "sha256": "99ba26ba4de2fd5524b84a8c6f14931aaeb25d740a954e92d8249e7be6cd9e31",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/cached_network_image_web-1.3.1"
+        "dest": ".pub-cache/hosted/pub.dev/cached_network_image_web-2.0.4"
     },
     {
         "type": "inline",
-        "contents": "980842f4e8e2535b8dbd3d5ca0b1f0ba66bf61d14cc3a17a9b4788a3685ba062",
+        "contents": "99ba26ba4de2fd5524b84a8c6f14931aaeb25d740a954e92d8249e7be6cd9e31",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "cached_network_image_web-1.3.1.sha256"
+        "dest-filename": "cached_network_image_web-2.0.4.sha256"
     },
     {
         "type": "archive",
@@ -548,16 +548,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/cupertino_ui-1.1.1.tar.gz",
-        "sha256": "c23816577a1280cff409e989541767887011f8f1d8c1863a794ed308af46f2a9",
+        "url": "https://pub.dev/api/archives/cupertino_ui-1.1.6.tar.gz",
+        "sha256": "369e39a1c5c030a6212589c3da1809920b1c2cfade7b02aade7695bfa4b88c3a",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/cupertino_ui-1.1.1"
+        "dest": ".pub-cache/hosted/pub.dev/cupertino_ui-1.1.6"
     },
     {
         "type": "inline",
-        "contents": "c23816577a1280cff409e989541767887011f8f1d8c1863a794ed308af46f2a9",
+        "contents": "369e39a1c5c030a6212589c3da1809920b1c2cfade7b02aade7695bfa4b88c3a",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "cupertino_ui-1.1.1.sha256"
+        "dest-filename": "cupertino_ui-1.1.6.sha256"
     },
     {
         "type": "archive",
@@ -772,30 +772,30 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/flex_color_picker-3.8.0.tar.gz",
-        "sha256": "a0979dd61f21b634717b98eb4ceaed2bfe009fe020ce8597aaf164b9eeb57aaa",
+        "url": "https://pub.dev/api/archives/flex_color_picker-4.0.0.tar.gz",
+        "sha256": "f3cac22c1d5af8b355faa9a8146ae81b441664d499475c7a2690c933cf1c673e",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/flex_color_picker-3.8.0"
+        "dest": ".pub-cache/hosted/pub.dev/flex_color_picker-4.0.0"
     },
     {
         "type": "inline",
-        "contents": "a0979dd61f21b634717b98eb4ceaed2bfe009fe020ce8597aaf164b9eeb57aaa",
+        "contents": "f3cac22c1d5af8b355faa9a8146ae81b441664d499475c7a2690c933cf1c673e",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "flex_color_picker-3.8.0.sha256"
+        "dest-filename": "flex_color_picker-4.0.0.sha256"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/flex_seed_scheme-4.0.1.tar.gz",
-        "sha256": "a3183753bbcfc3af106224bff3ab3e1844b73f58062136b7499919f49f3667e7",
+        "url": "https://pub.dev/api/archives/flex_seed_scheme-5.0.1.tar.gz",
+        "sha256": "08f9ee11f9a08c2dee76d0a07ea824c8a09ea4db9456e32ac4f6dfb34d28392c",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/flex_seed_scheme-4.0.1"
+        "dest": ".pub-cache/hosted/pub.dev/flex_seed_scheme-5.0.1"
     },
     {
         "type": "inline",
-        "contents": "a3183753bbcfc3af106224bff3ab3e1844b73f58062136b7499919f49f3667e7",
+        "contents": "08f9ee11f9a08c2dee76d0a07ea824c8a09ea4db9456e32ac4f6dfb34d28392c",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "flex_seed_scheme-4.0.1.sha256"
+        "dest-filename": "flex_seed_scheme-5.0.1.sha256"
     },
     {
         "type": "archive",
@@ -855,16 +855,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/flutter_hooks-0.21.3+1.tar.gz",
-        "sha256": "8ae1f090e5f4ef5cfa6670ce1ab5dddadd33f3533a7f9ba19d9f958aa2a89f42",
+        "url": "https://pub.dev/api/archives/flutter_hooks-0.21.4.tar.gz",
+        "sha256": "b4f6eb8f13fc92523023a47d4a2e541b17827535334941f9a974f10da0797a7e",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/flutter_hooks-0.21.3+1"
+        "dest": ".pub-cache/hosted/pub.dev/flutter_hooks-0.21.4"
     },
     {
         "type": "inline",
-        "contents": "8ae1f090e5f4ef5cfa6670ce1ab5dddadd33f3533a7f9ba19d9f958aa2a89f42",
+        "contents": "b4f6eb8f13fc92523023a47d4a2e541b17827535334941f9a974f10da0797a7e",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "flutter_hooks-0.21.3+1.sha256"
+        "dest-filename": "flutter_hooks-0.21.4.sha256"
     },
     {
         "type": "archive",
@@ -995,16 +995,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/flutter_riverpod-3.4.3.tar.gz",
-        "sha256": "2b7f9d2a3c730ac1a98221b420cef966b990fca7ab546ede324642ca57a533e3",
+        "url": "https://pub.dev/api/archives/flutter_riverpod-3.5.0.tar.gz",
+        "sha256": "2ae1a93a868ae5f2d5358f521a4bfae0da7a3bfe77a60515ab5c28953b50557f",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/flutter_riverpod-3.4.3"
+        "dest": ".pub-cache/hosted/pub.dev/flutter_riverpod-3.5.0"
     },
     {
         "type": "inline",
-        "contents": "2b7f9d2a3c730ac1a98221b420cef966b990fca7ab546ede324642ca57a533e3",
+        "contents": "2ae1a93a868ae5f2d5358f521a4bfae0da7a3bfe77a60515ab5c28953b50557f",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "flutter_riverpod-3.4.3.sha256"
+        "dest-filename": "flutter_riverpod-3.5.0.sha256"
     },
     {
         "type": "archive",
@@ -1191,16 +1191,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/go_router-17.5.0.tar.gz",
-        "sha256": "d7a3576cb312649eaa51f2356450aed686085fb58fcdebda5b359aa951eef7ea",
+        "url": "https://pub.dev/api/archives/go_router-18.1.3.tar.gz",
+        "sha256": "5a44b0bd6131888bda5f770be5db2e08a59063724c6fa534ea4ec7c9fc3f841b",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/go_router-17.5.0"
+        "dest": ".pub-cache/hosted/pub.dev/go_router-18.1.3"
     },
     {
         "type": "inline",
-        "contents": "d7a3576cb312649eaa51f2356450aed686085fb58fcdebda5b359aa951eef7ea",
+        "contents": "5a44b0bd6131888bda5f770be5db2e08a59063724c6fa534ea4ec7c9fc3f841b",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "go_router-17.5.0.sha256"
+        "dest-filename": "go_router-18.1.3.sha256"
     },
     {
         "type": "archive",
@@ -1443,16 +1443,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/hooks_riverpod-3.4.3.tar.gz",
-        "sha256": "d58e1e14aa112ca9c56d54effb7d0d717b2d3f96dad3cdd1fce16f8740450700",
+        "url": "https://pub.dev/api/archives/hooks_riverpod-3.5.0.tar.gz",
+        "sha256": "bfafc8ca13e33e191fd3c3c2e920eed08918ef669e0b4df253b401fa78f82f47",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/hooks_riverpod-3.4.3"
+        "dest": ".pub-cache/hosted/pub.dev/hooks_riverpod-3.5.0"
     },
     {
         "type": "inline",
-        "contents": "d58e1e14aa112ca9c56d54effb7d0d717b2d3f96dad3cdd1fce16f8740450700",
+        "contents": "bfafc8ca13e33e191fd3c3c2e920eed08918ef669e0b4df253b401fa78f82f47",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "hooks_riverpod-3.4.3.sha256"
+        "dest-filename": "hooks_riverpod-3.5.0.sha256"
     },
     {
         "type": "archive",
@@ -1793,16 +1793,30 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/material_ui-1.4.0.tar.gz",
-        "sha256": "134ab2f0843545c4e661e4ba2753fe1bcf0753cb690d5a9ee4870638a40411e9",
+        "url": "https://pub.dev/api/archives/material_hooks-0.1.0.tar.gz",
+        "sha256": "c10e0e33f80cab3081850dcdb257f82072baf8ecdf252f2c2f80e8d7c12c14c2",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/material_ui-1.4.0"
+        "dest": ".pub-cache/hosted/pub.dev/material_hooks-0.1.0"
     },
     {
         "type": "inline",
-        "contents": "134ab2f0843545c4e661e4ba2753fe1bcf0753cb690d5a9ee4870638a40411e9",
+        "contents": "c10e0e33f80cab3081850dcdb257f82072baf8ecdf252f2c2f80e8d7c12c14c2",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "material_ui-1.4.0.sha256"
+        "dest-filename": "material_hooks-0.1.0.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/material_ui-1.10.0.tar.gz",
+        "sha256": "a30f5d0625b6b83770f53ca3f7aafd6fd9d147cb3853f54a70668541046fe5d6",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/material_ui-1.10.0"
+    },
+    {
+        "type": "inline",
+        "contents": "a30f5d0625b6b83770f53ca3f7aafd6fd9d147cb3853f54a70668541046fe5d6",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "material_ui-1.10.0.sha256"
     },
     {
         "type": "archive",
@@ -1831,20 +1845,6 @@
         "contents": "bd47de35f07e27267e69c8c8b22edf9473bfee170a60d60fcc93730c5144b7f6",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "mime-2.1.0.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/mockito-5.8.1.tar.gz",
-        "sha256": "6c1970612452260366064d4df80fdb3eece1ec5e52610ae34a0e51f2f3d8e64f",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/mockito-5.8.1"
-    },
-    {
-        "type": "inline",
-        "contents": "6c1970612452260366064d4df80fdb3eece1ec5e52610ae34a0e51f2f3d8e64f",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "mockito-5.8.1.sha256"
     },
     {
         "type": "archive",
@@ -2255,58 +2255,58 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/riverpod-3.4.3.tar.gz",
-        "sha256": "484dfc873ea4c4f4240e5635444fa066f87b07862b7279ebd004a2b71fba4b7a",
+        "url": "https://pub.dev/api/archives/riverpod-3.5.0.tar.gz",
+        "sha256": "24cbce92e87088cae0dd06caac3876c0b3abfd084901e7a93a3254d6daf4937d",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/riverpod-3.4.3"
+        "dest": ".pub-cache/hosted/pub.dev/riverpod-3.5.0"
     },
     {
         "type": "inline",
-        "contents": "484dfc873ea4c4f4240e5635444fa066f87b07862b7279ebd004a2b71fba4b7a",
+        "contents": "24cbce92e87088cae0dd06caac3876c0b3abfd084901e7a93a3254d6daf4937d",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "riverpod-3.4.3.sha256"
+        "dest-filename": "riverpod-3.5.0.sha256"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/riverpod_analyzer_utils-1.0.0-dev.12.tar.gz",
-        "sha256": "bb13cb3985815840cc103eda1027158358c5fdc00f308fc6f76574d0594107af",
+        "url": "https://pub.dev/api/archives/riverpod_analyzer_utils-1.0.0.tar.gz",
+        "sha256": "a9ac757dd927b8b52ee4d3c5f8b7ecba523e140a8df916a88d5d54fef5bff72f",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/riverpod_analyzer_utils-1.0.0-dev.12"
+        "dest": ".pub-cache/hosted/pub.dev/riverpod_analyzer_utils-1.0.0"
     },
     {
         "type": "inline",
-        "contents": "bb13cb3985815840cc103eda1027158358c5fdc00f308fc6f76574d0594107af",
+        "contents": "a9ac757dd927b8b52ee4d3c5f8b7ecba523e140a8df916a88d5d54fef5bff72f",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "riverpod_analyzer_utils-1.0.0-dev.12.sha256"
+        "dest-filename": "riverpod_analyzer_utils-1.0.0.sha256"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/riverpod_annotation-4.0.7.tar.gz",
-        "sha256": "322e56ad198928ef26ba240f85421bfff2493bd65665c887b1299e6386b6206d",
+        "url": "https://pub.dev/api/archives/riverpod_annotation-4.0.8.tar.gz",
+        "sha256": "61baad25ae2164778032a4dd1fabf97372eb314bcd81fd2645ed9ec7fadb0208",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/riverpod_annotation-4.0.7"
+        "dest": ".pub-cache/hosted/pub.dev/riverpod_annotation-4.0.8"
     },
     {
         "type": "inline",
-        "contents": "322e56ad198928ef26ba240f85421bfff2493bd65665c887b1299e6386b6206d",
+        "contents": "61baad25ae2164778032a4dd1fabf97372eb314bcd81fd2645ed9ec7fadb0208",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "riverpod_annotation-4.0.7.sha256"
+        "dest-filename": "riverpod_annotation-4.0.8.sha256"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/riverpod_generator-4.0.9.tar.gz",
-        "sha256": "c94dcb8b60ff4805d2bb8cacca969c48237bcb563e2ab0b5afb50204470c7636",
+        "url": "https://pub.dev/api/archives/riverpod_generator-4.0.10.tar.gz",
+        "sha256": "3d5dc44c50452633ee700d8c31d680d80306dd19733c653b4117b9fc3e1d7399",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/riverpod_generator-4.0.9"
+        "dest": ".pub-cache/hosted/pub.dev/riverpod_generator-4.0.10"
     },
     {
         "type": "inline",
-        "contents": "c94dcb8b60ff4805d2bb8cacca969c48237bcb563e2ab0b5afb50204470c7636",
+        "contents": "3d5dc44c50452633ee700d8c31d680d80306dd19733c653b4117b9fc3e1d7399",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "riverpod_generator-4.0.9.sha256"
+        "dest-filename": "riverpod_generator-4.0.10.sha256"
     },
     {
         "type": "archive",
